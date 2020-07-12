@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     Yayang Kurnia<br>
-    Code. Cat. Cofee
+    Code. Cat. Cofee.
      <br><br>Contact me on <a href="https://web.facebook.com/y21kurnia">Facebook</a> or <a href="mailto:y21kurnia@gmail.com">Send an Email</a>
   </samp>
 </p>
