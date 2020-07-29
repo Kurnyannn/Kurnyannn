@@ -11,10 +11,9 @@
     Contact me on <a href="https://web.facebook.com/y21kurnia">Facebook</a> or <a href="mailto:y21kurnia@gmail.com">Send an Email</a>
     <br><br>
   </samp>
+  <img width="490"
+     height="165"
+     style="margin: 0px"
+     src="https://github-readme-stats.vercel.app/api/?username=Kurnyannn&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000"
+     alt="github stats"/>
 </p>
-<img align="center"
-         width="490"
-         height="165"
-         src="https://github-readme-stats.vercel.app/api/?username=Kurnyannn&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000"
-         alt="github stats"/>
-
