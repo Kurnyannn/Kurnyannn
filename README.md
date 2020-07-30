@@ -1,9 +1,8 @@
 ## Hi
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true">
-<p align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-  <br><br>
-</p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+
+  <br>
   <br>
   <br>
 <p align="center">
