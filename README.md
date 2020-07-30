@@ -1,15 +1,16 @@
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
   <br><br>
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true&hide=["issues"]&title_color=fffffff&icon_color=000000&text_color=000000"/>
+</p>
   <br>
   <br>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kurnyannn" />
   </a>
-  <br>
   <samp>
     Yayang Kurnia<br>
     Code. Cat. Cofee.
