@@ -12,4 +12,4 @@
     <br><br>
   </samp>
 </p>
-![Kurnyannn's github stats]<img src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true&hide=["issues"]&title_color=fffffff&icon_color=000000&text_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true&hide=["issues"]&title_color=fffffff&icon_color=000000&text_color=000000"/>
