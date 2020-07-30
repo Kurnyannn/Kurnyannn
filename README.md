@@ -10,8 +10,5 @@
    <br><br>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kurnyannn" />
-  </a>
-  <br>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kurnyannn&layout=compact" />
 </p>
