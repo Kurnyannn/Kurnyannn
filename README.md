@@ -8,7 +8,7 @@
     Contact me on <a href="https://web.facebook.com/y21kurnia">Facebook</a> or <a href="mailto:y21kurnia@gmail.com">Send an Email</a>
     <br><br>
   </samp>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
   <br><br>
 </p>
   <br>
