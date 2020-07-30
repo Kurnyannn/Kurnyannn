@@ -1,8 +1,8 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true&hide=["issues"]&title_color=fffffff&icon_color=000000&text_color=000000"/>
 <p align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
   <br><br>
 </p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kurnyannn&show_icons=true&hide=["issues"]&title_color=fffffff&icon_color=000000&text_color=000000"/>
   <br>
   <br>
 <p align="center">
