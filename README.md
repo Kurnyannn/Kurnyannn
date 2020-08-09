@@ -1,7 +1,6 @@
 ## Hi
 <p align="center">
    <samp>
-    Yayang Kurnia<br>
     Contact me on <a href="https://web.facebook.com/y21kurnia">Facebook</a> or <a href="mailto:y21kurnia@gmail.com">Send an Email</a>
     <br><br>
    </samp>
