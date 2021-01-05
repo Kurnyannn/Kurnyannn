@@ -12,8 +12,8 @@ const kurnyaannn = {
             php: ["Laravel", "Livewire"]
         },
         databases: ["MySQL", "sqlite", "PostgreSQL"],
-        misc: ["Wordpress", "Firebase", "TensorflowJS", "UI", "UX", "Godot", "Python"]
+        misc: ["Wordpress", "Firebase", "TensorflowJS", "UI", "UX", "GNU/Linux"]
     },
-    ongoing: ["Machine Learning"]
+    ongoing: ["Python", "Machine Learning"]
 };
 ```
