@@ -1,1 +1,19 @@
-
+```javascript
+const kurnyaannn = {
+    pronouns: "He" | "Him",
+    currentFocus: "WEB Dev",
+    code: ["CSS", "Javascript", "PHP"],
+    technologies: {
+        frontEnd: {
+            js: ["VueJS", "AlpineJS"],
+            css: ["TailwindCSS", "Bootstrap", "MaterializeCSS", "SemanticUI", "UIkit", "Vuetify"]
+        },
+        backEnd: {
+            php: ["Laravel", "Livewire"]
+        },
+        databases: ["MySQL", "sqlite", "PostgreSQL"],
+        misc: ["Wordpress", "Firebase", "TensorflowJS", "UI", "UX", "Godot", "Python"]
+    },
+    ongoing: ["Machine Learning"]
+};
+```
