@@ -18,5 +18,5 @@ const kurnyaannn = {
 };
 ```
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurnyaannn&theme=onedark&title=Commit,Repo,Stars,Followers" alt="kurnyaannn" /></a>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=kurnyaannn&theme=onedark&title=Commit,Repo,Stars,Followers)]
 </p>
