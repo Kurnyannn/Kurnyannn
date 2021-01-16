@@ -10,8 +10,8 @@ const kurnyaannn = {
     code: ["CSS", "Javascript", "PHP"],
     technologies: {
         frontEnd: {
-            js: ["VueJS", "AlpineJS"],
-            css: ["TailwindCSS", "Bootstrap", "MaterializeCSS", "SemanticUI", "UIkit", "Vuetify"]
+            js: ["VueJS", "AlpineJS", "Vuetify"],
+            css: ["TailwindCSS", "Bootstrap", "MaterializeCSS", "SemanticUI", "UIkit"]
         },
         backEnd: {
             php: ["Laravel", "Livewire"]
