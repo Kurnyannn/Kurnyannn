@@ -13,7 +13,7 @@ const kurnyaannn = {
             css: ["TailwindCSS", "Bootstrap", "MaterializeCSS", "SemanticUI", "UIkit"]
         },
         backEnd: {
-            php: ["Laravel", "Livewire"]
+            php: ["Laravel", "Livewire", "CodeIgniter"]
         },
         databases: ["MySQL", "sqlite", "PostgreSQL"],
         misc: ["Wordpress", "Firebase", "TensorflowJS", "UI", "UX", "GNU/Linux", "Git"],
