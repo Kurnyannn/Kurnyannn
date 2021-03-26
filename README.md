@@ -4,9 +4,8 @@
 
 ```javascript
 let kurnyaannn = {
-    pronouns: 'He' | 'Him',
     currentFocus: 'WEB Dev',
-    code: ['CSS', 'Javascript', 'PHP'],
+    code: ['CSS', 'Javascript (ES6)', 'PHP'],
     technologies: {
         frontEnd: {
             css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
