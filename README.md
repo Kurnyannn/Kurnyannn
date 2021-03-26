@@ -16,7 +16,8 @@ let kurnyaannn = {
             php: ['Laravel', 'Livewire', 'CodeIgniter']
         },
         databases: ['MySQL', 'sqlite', 'PostgreSQL'],
-        misc: ['Wordpress', 'Firebase', 'TensorflowJS', 'UI', 'UX', 'GNU/Linux', 'Git']
+        design: ['Figma', 'Inkscape'],
+        misc: ['Wordpress', 'Firebase', 'TensorflowJS', 'UI', 'UX', 'GNU/Linux', 'Git', 'Netlify', 'Heroku']
     }
 };
 ```
