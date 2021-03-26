@@ -3,21 +3,20 @@
 </p>
 
 ```javascript
-const kurnyaannn = {
-    pronouns: "He" | "Him",
-    currentFocus: "WEB Dev",
-    code: ["CSS", "Javascript", "PHP"],
+let kurnyaannn = {
+    pronouns: 'He' | 'Him',
+    currentFocus: 'WEB Dev',
+    code: ['CSS', 'Javascript', 'PHP'],
     technologies: {
         frontEnd: {
-            js: ["VueJS", "AlpineJS", "Vuetify"],
-            css: ["TailwindCSS", "Bootstrap", "MaterializeCSS", "SemanticUI", "UIkit"]
+            css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
+            js: ['VueJS', 'AlpineJS', 'Vuetify']
         },
         backEnd: {
-            php: ["Laravel", "Livewire", "CodeIgniter"]
+            php: ['Laravel', 'Livewire', 'CodeIgniter']
         },
-        databases: ["MySQL", "sqlite", "PostgreSQL"],
-        misc: ["Wordpress", "Firebase", "TensorflowJS", "UI", "UX", "GNU/Linux", "Git"],
-        ongoing: ["Python", "Machine Learning"]
+        databases: ['MySQL', 'sqlite', 'PostgreSQL'],
+        misc: ['Wordpress', 'Firebase', 'TensorflowJS', 'UI', 'UX', 'GNU/Linux', 'Git']
     }
 };
 ```
