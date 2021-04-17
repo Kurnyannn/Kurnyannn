@@ -5,11 +5,11 @@
 ```javascript
 let kurnyaannn = {
     currentFocus: 'WEB Dev',
-    code: ['CSS', 'Javascript (ES6)', 'PHP'],
+    code: ['CSS', 'Javascript (ES6)', 'Typescript', 'PHP'],
     technologies: {
         frontEnd: {
             css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
-            js: ['VueJS', 'AlpineJS', 'Vuetify']
+            js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby']
         },
         backEnd: {
             php: ['Laravel', 'Livewire', 'CodeIgniter']
