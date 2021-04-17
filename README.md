@@ -7,11 +7,9 @@ let kurnyaannn = {
     currentFocus: 'WEB Dev',
     code: ['CSS', 'Javascript (ES6)', 'Typescript', 'PHP'],
     technologies: {
-        frontEnd: {
+        framework: {
             css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
-            js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby']
-        },
-        backEnd: {
+            js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby'],
             php: ['Laravel', 'Livewire', 'CodeIgniter']
         },
         databases: ['MySQL', 'sqlite', 'PostgreSQL'],
