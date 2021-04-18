@@ -7,7 +7,7 @@ let kurnyaannn = {
     currentFocus: 'WEB Dev',
     code: ['CSS', 'Javascript (ES6)', 'Typescript', 'PHP'],
     technologies: {
-        framework: {
+        frameworks: {
             css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
             js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby'],
             php: ['Laravel', 'Livewire', 'CodeIgniter']
