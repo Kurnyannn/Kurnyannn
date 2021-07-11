@@ -9,7 +9,7 @@ let kurnyaannn = {
     technologies: {
         frameworks: {
             css: ['TailwindCSS', 'Bootstrap', 'MaterializeCSS', 'SemanticUI', 'UIkit'],
-            js: ['VueJS', 'AlpineJS', 'Vuetify', 'ReactJS', 'Gatsby'],
+            js: ['VueJS', 'Vuetify', 'NuxtJS', 'AlpineJS', 'ReactJS', 'Gatsby'],
             php: ['Laravel', 'Livewire', 'CodeIgniter']
         },
         databases: ['MySQL', 'sqlite', 'PostgreSQL'],
